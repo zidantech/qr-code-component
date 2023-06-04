@@ -17,14 +17,15 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Overview
 
 ### Screenshot
-
+## DESKTOP VIEW
 ![](./design/desktop-design.jpeg)
+## MOBILE VIEW
 ![](./design/mobile-design.jpeg)
 
 ### Links
 
 - Solution URL: [https://github.com/zidantech/qr-code-component]
-- Live Site URL: [Add live site URL here]
+- Live Site URL: [https://zidantech.github.io/qr-code-component/]
 
 ## My process
 
@@ -60,18 +61,17 @@ const proudOfThisFunc = () => {
 
 ### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
+I wil continue learning Front-End development and Build cool and responsive webpages by challenging myself and doing hard things.
 
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- [Example resource 1](https://www.w3schools.com) - This helped me for CSS Grids. I really liked this pattern and will use it going forward.
 
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+- Website - [ZIDAN MUSA MODIBBO](https://www.your-site.com)
 - Frontend Mentor - [@zidantech](https://www.frontendmentor.io/profile/zidantech)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Twitter - [@ZidanTech4](https://www.twitter.com/ZidanTech4)
 
